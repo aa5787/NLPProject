@@ -5,7 +5,7 @@ Aadhi Aravind, Aidan Sakuma, Irene Nguyen
 ## Project Overview
 This repository hosts the code for **"From Semantic Similarity to Generative Curation,"** a project exploring the use of Large Language Models (LLMs) for next-generation music recommendation. Unlike traditional matrix factorization or embedding-based retrieval, we implement a **Generative Retrieval** framework where an LLM directly generates the identifiers of recommended songs. project exploring the use of Large Language Models (LLMs) for next-generation music recommendation. Unlike traditional matrix factorization or embedding-based retrieval, we implement a Generative Retrieval framework where an LLM directly generates the identifiers of recommended songs.
 
-## File: `qwen_workingversion.ipynb` 
+## File: `final.ipynb` 
 This notebook is our main code that works and shows all of our results.
 
 ## File : `spotifyplaylist.csv`
