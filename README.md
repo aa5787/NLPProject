@@ -9,7 +9,7 @@ This notebook is our main code that works and shows all of our results.
 ## File : `spotifyplaylist.csv`
 Full csv file with all of our playlists.
 
-EVERYTHING BELOW ARE ITERATIONS IN OUR PROCESS AND NOT FINAL CODE, WE WANTED TO INCLUDE THEM SO THE EFFORTS DONT GO TO WASTE.
+## EVERYTHING BELOW ARE ITERATIONS IN OUR PROCESS AND NOT FINAL CODE, WE WANTED TO INCLUDE THEM SO THE EFFORTS DONT GO TO WASTE.
 
 ## File: `llamasmallercsvworkingversion.ipynb`
 This notebook runs LLama on a smaller version of the .csv file, and was an iteration in our process.
